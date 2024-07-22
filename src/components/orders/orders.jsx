@@ -48,13 +48,7 @@ const Order = () => {
     <li onClick={()=>handleCategoryChange('Delivered')}>Delivered{activeCategory=="Delivered"?<hr/>:<></>}</li>
     
 </ul> 
-      {/* <div className="nav-menu">
-
-        <button onClick={() => handleCategoryChange('All')}>All Orders</button>
-        <button onClick={() => handleCategoryChange('Pending')}>Pending</button>
-        <button onClick={() => handleCategoryChange('Shipped')}>Shipped</button>
-        <button onClick={() => handleCategoryChange('Delivered')}>Delivered</button>
-      </div> */}
+     
       <div className="content">
         <h2>{activeCategory} Orders</h2>
         <input
