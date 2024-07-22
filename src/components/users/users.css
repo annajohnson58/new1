@@ -1,0 +1,40 @@
+.mainuser{
+   background: #E8D8C4;
+   padding: 10px 350px;
+   display: flex;
+   flex-direction: column;
+   padding-left: 0;
+   padding-top: 2px;
+   gap:20px;
+
+}
+.mainuser h1{
+    margin-left: 10px;
+    height: 40px;
+}
+.section{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    margin-left: 10px;
+    padding-left: 2px;
+}
+.top{
+    height:10px;
+    padding-bottom: 2px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    gap:500px;
+}
+.top input{
+    width: 600px;
+    height: 30px;
+}
+.top button{
+    height:40px;
+    width: 150px;
+    background:  #8D493A;
+    color: white;
+
+}

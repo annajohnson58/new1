@@ -1,0 +1,177 @@
+.row{
+    border-radius: 15px;
+    background: white;
+    height:260px;
+    width:400px;
+    gap:5px;
+   
+}
+.chart{
+   
+    padding: 40px ;
+    padding-right: 360px;
+    display: flex;
+    flex-direction:row;
+    gap: 35px;
+}
+.head h2{
+    font-size: 35px;
+    padding: 0%;
+    margin: 0;
+}
+.image{
+    display: flex;
+   flex-direction: row;
+    gap:0px;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+   height: 30px;
+
+}
+.head p{
+    font-size: 20px;
+}
+.row1{
+    border-radius: 15px;
+    background: white;
+    height:260px;
+    width:400px;
+    gap:5px;
+   
+}
+.head1 h2{
+    font-size: 35px;
+    padding: 0%;
+    margin: 0;
+}
+.image1{
+    display: flex;
+   flex-direction: row;
+    gap:0px;
+}
+.head1{
+    display: flex;
+    flex-direction: column;
+   height: 10px;
+   
+}
+.head1 p{
+    font-size: 20px;
+    
+}
+.row2{
+    border-radius: 15px;
+    background: white;
+    height:260px;
+    width:400px;
+    gap:5px;
+    margin-right:10px;
+   
+}
+.head2 h2{
+    font-size: 35px;
+    padding: 0%;
+    margin: 0;
+}
+.image2{
+    display: flex;
+   flex-direction: row;
+    gap:0px;
+}
+.head2{
+    display: flex;
+    flex-direction: column;
+   height: 10px;
+   
+}
+.head2 p{
+    font-size: 20px;
+    
+}
+.app{
+  background:#E8D8C4 ;  
+  
+}
+.app h1{
+    margin-left:15px;
+}
+.products{
+    background: white;
+    padding:10px 40px;
+    margin-left: 40px;
+    margin-right: 0px;
+    border-radius: 20px ;
+}
+.products h2{
+    width: 200px;
+}
+.row3{
+    border-radius: 15px;
+    background: white;
+    height:450px;
+    width:400px;
+    gap:0px;
+    margin-left: 0px;
+    margin-right: 0;
+   
+}
+.head3 h2{
+    font-size: 35px;
+    padding: 0%;
+    margin-left: 20px;
+}
+
+.head3{
+    display: flex;
+    flex-direction: column;
+   height: 10px;
+   
+}
+.head3 p{
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+.j{
+    display: flex;
+    flex-direction: row;
+    
+  
+   gap: 30px;
+}
+.club{
+    display: flex;
+    flex-direction: column;
+    gap:100px;
+}
+.row4{
+    border-radius: 15px;
+    background: white;
+    height:450px;
+    width:400px;
+    gap:0px;
+    margin-left: 0px;
+    margin-right: 0;
+   
+}
+
+
+.head4{
+    display: flex;
+    flex-direction: column;
+   height: 10px;
+   
+}
+.head4 p{
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+
+.club1{
+    display: flex;
+    flex-direction: column;
+    gap:100px;
+}
